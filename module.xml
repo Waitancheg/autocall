@@ -1,0 +1,18 @@
+<module>
+	<rawname>autocall</rawname>
+	<repo>standard</repo>
+	<name>Autocall</name>
+	<version>0.0.0.1</version>
+	<publisher>OBS</publisher>
+	<license>GPLv3+</license>
+	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+	<description>Allows check Database for other some purposes)</description>
+	<category>Applications</category>
+	<menuitems>
+		<autocall>Autocall</autocall>
+	</menuitems>
+	<depends>
+		<engine>asterisk 1.6</engine>
+		<module>framework ge 2.11.0.0rc1.6</module>
+	</depends>
+</module>
